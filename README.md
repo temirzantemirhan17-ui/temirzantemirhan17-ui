@@ -1,16 +1,36 @@
-## Hi there 👋
+Привет! Я Темир 👋
 
-<!--
-**temirzantemirhan17-ui/temirzantemirhan17-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 IT / Web Development
 
-Here are some ideas to get you started:
+Занимаюсь разработкой веб-сайтов и цифровых решений для бизнеса и частных клиентов.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Навыки
+
+* HTML / CSS
+* PHP
+* SQL / MySQL
+* XAMPP
+* JavaScript
+* Работа с базами данных
+* Создание и настройка простых веб-сайтов
+
+📌 Мои проекты
+
+CoffeeHouseKRG
+Веб-сайт для кофейни.
+
+Notes App
+Приложение для работы с заметками на PHP и XAMPP.
+
+Student Testing System
+Система тестирования студентов с использованием базы данных.
+
+💼 Что могу сделать
+
+* Создать сайт-визитку
+* Создать простой сайт для бизнеса
+* Сделать меню для кафе/ресторана
+* Работа с SQL и базами данных
+* Исправить ошибки в HTML/CSS/PHP
+* Создать простые веб-страницы
+* Работа с документами 
